@@ -274,7 +274,7 @@ export default function Page() {
   useEffect(() => {
     if (yesPressed && noCount > 3 && !yespopupShown) {
       Swal.fire({
-        title: "I love you so much!! ❤️ You are my everything, my joy, my forever. Every moment with you is a memory I’ll cherish forever, and my heart beats only for you.</br> Will you be the love of my life forever?",
+        title: "I love you so much!! ❤️ You are my everything, my joy, my forever. Every moment with you is a memory I’ll cherish forever, and my heart beats only for you.</br> Sorry Anyeshaaaa sorrrryyy!!!",
         width: 800,
         padding: "2em",
         color: "#716add",
@@ -345,8 +345,12 @@ export default function Page() {
               alt="Love Animation"
             />
             <h1 className="text-4xl md:text-6xl my-4 text-center">
-              Will you be my Valentine?
-            </h1>
+  eto rag kre kii hbe 😢
+  <br />
+
+
+  Tui kii Kotha Bolbi Naa ??
+</h1>
             <div className="flex flex-wrap justify-center gap-2 items-center">
               <button
                 onMouseEnter={handleMouseEnterYes}
@@ -393,7 +397,7 @@ const Footer = () => {
   return (
     <a
       className="fixed bottom-2 right-2 backdrop-blur-md opacity-80 hover:opacity-95 border p-1 rounded border-rose-300"
-      href="https://github.com/UjjwalSaini07"
+      href="https://github.com/ANUBHAB-Giri123"
       target="_blank"
       rel="noopener noreferrer"
     >
@@ -401,7 +405,7 @@ const Footer = () => {
       <span role="img" aria-label="heart">
         ❤️
       </span>
-      {" "}by Ujjwal
+      {" "}by Anubhab
     </a>
   );
 };
